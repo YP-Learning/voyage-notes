@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c306efa5910de6e0",
+        "id": "2dd161aadbbce9f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Properties-of-logarithms.md",
+            "file": "Mathematics/proof-for-properties-of-log.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fca47f33bbe6c13b"
+      },
+      {
+        "id": "254baebaa70d6a77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics/proof-for-properties-of-log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fca47f33bbe6c13b"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "56f352e8f436a83c",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Properties-of-logarithms.md",
+                "file": "Mathematics/proof-for-properties-of-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +100,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c306efa5910de6e0",
+  "active": "2dd161aadbbce9f0",
   "lastOpenFiles": [
+    "Mathematics/proof-for-properties-of-log.md",
+    "voyage.md",
     "Mathematics/Properties-of-logarithms.md",
+    "Untitled.md",
     "Mathematics/Logarithms.md",
-    "Properties-of-logarithms.md",
-    "Untitled.md"
+    "INDEX/Applied Mathematics I.md",
+    "Applied Mathematics 1.md",
+    "Properties-of-logarithms.md"
   ]
 }
