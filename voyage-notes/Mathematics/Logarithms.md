@@ -7,7 +7,7 @@
 [This video](https://www.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-logarithmic-scale/v/vi-and-sal-explore-how-we-think-about-scale) by Khan academy explains the logarithmic scale.
 
 ## What is it?
-basically -
-#### $$\log_{base}(number) = exponent \iff base^{exponent} = number$$
+basically its just another way of writting exponents, in exponents the output is the value after applying the exponent, but here the output is the exponent itself.
+#### $\log_{base}(number) = exponent \iff base^{exponent} = number$
 
-Relate: [[Properties-of-logarithms]]
+Relate: [Properties-of-logarithms](Properties-of-logarithms.md)

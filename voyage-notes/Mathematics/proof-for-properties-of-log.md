@@ -1,8 +1,8 @@
 
--  [[#The Product Rule]] 
--   [[#The Quotient Rule]]
--   [[#The Power Rule]]
--   [[#The Change of Base Rule]]
+-  [The Power Rule](#The%20Power%20Rule)
+-   [The Quotient Rule](#The%20Quotient%20Rule)
+-   [The Power Rule](#The%20Power%20Rule)
+-   [The Change of Base Rule](#The%20Change%20of%20Base%20Rule)
 
 ---
 ## The Product Rule
@@ -75,7 +75,7 @@ $b^m = a$
 
 take log with base b of both the sides
 $\log_c(b^m) = \log_c(a)$
-$m \cdot \log_c(b) = \log_c(a)$ [using The power rule]
+$m \cdot \log_c(b) = \log_c(a)$ [using [The Power Rule](#The%20Power%20Rule)]
 $m = \frac{\log_c(a)}{\log_c(b)}$
 
 substituting m

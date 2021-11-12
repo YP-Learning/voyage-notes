@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Designing/Terminologies.md",
-            "mode": "preview"
+            "file": "voyage.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Designing/Terminologies.md",
+                "file": "voyage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "251e999bc80eecd6",
   "lastOpenFiles": [
-    "Web-Designing/Terminologies.md",
-    "INDEX/Web Designing.md",
     "voyage.md",
-    "INDEX/Applied Mathematics I.md",
+    "Web-Designing/Terminologies.md",
+    "Web-Designing/HTML.md",
+    "Compting-Essentials/what can computers do ❓.md",
     "Mathematics/Properties-of-logarithms.md",
-    "Mathematics/Logarithms.md",
-    "Compter-Essentials/what can computers do ❓.md",
-    "Untitled 1.md",
     "Mathematics/proof-for-properties-of-log.md",
-    "Applied Mathematics 1.md"
+    "Mathematics/Logarithms.md",
+    "INDEX/Applied Mathematics I.md",
+    "INDEX/Computing Essentials.md",
+    "INDEX/Web Designing.md"
   ]
 }
