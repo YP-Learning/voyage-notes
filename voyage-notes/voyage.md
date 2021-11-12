@@ -1,2 +1,3 @@
 # Voyage (Index)
-[[Applied Mathematics I]]
+[Applied Mathematics I](INDEX/Applied%20Mathematics%20I.md)
+[Web Designing](INDEX/Web%20Designing.md)
